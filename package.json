@@ -21,7 +21,7 @@
     "fastclick": "^1.0.6",
     "flyio": "^0.6.9",
     "gojs": "^2.0.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "less": "2.7.3",
     "less-loader": "^4.1.0",
     "lodash": "^4.17.11",
