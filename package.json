@@ -50,7 +50,7 @@
     "chai": "^4.1.2",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.0.1",
     "vconsole": "^3.3.0",
     "vue-cli-plugin-element": "^1.0.0",
